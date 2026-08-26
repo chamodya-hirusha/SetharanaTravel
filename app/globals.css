@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0E4B3A;
+  --color-secondary: #D4AF37;
+  --color-accent: #F59E0B;
+  --color-text-dark: #111827;
+  --color-section-bg: #F8FAFC;
+  --font-sinhala: var(--font-sinhala), system-ui, -apple-system, sans-serif;
+}
+
+:root {
+  --primary: #0E4B3A;
+  --secondary: #D4AF37;
+  --accent: #F59E0B;
+}
+
+body {
+  font-family: var(--font-sinhala), system-ui, -apple-system, sans-serif;
+}
+
+/* Custom scroll bar for premium UI feel */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0E4B3A;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #093025;
+}
+
+/* Glassmorphism custom classes */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.glass-panel-dark {
+  background: rgba(14, 75, 58, 0.15);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Text glow for gold elements */
+.text-gold-glow {
+  text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
+}
+
+/* Smooth transition utility */
+.transition-premium {
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Page scroll behavior */
+html {
+  scroll-behavior: smooth;
+}

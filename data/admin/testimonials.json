@@ -1,0 +1,34 @@
+[
+  {
+    "id": "t1",
+    "name": "Piyal Dharmawardhena",
+    "location": "Colombo",
+    "image": "",
+    "rating": 5,
+    "comment": "Our Anuradhapura pilgrimage trip rented from Setharana was very successful. Accommodation and food facilities are excellent. We were able to freely perform our religious activities. We didn't feel any discomfort."
+  },
+  {
+    "id": "t2",
+    "name": "Malini Wijesinghe",
+    "location": "Gampaha",
+    "image": "",
+    "rating": 5,
+    "comment": "The Sri Pada pilgrimage was organized very well. Especially the care and kindness shown by the Setharana team to the elderly in the group should be highly appreciated. Will definitely travel with Setharana next time too."
+  },
+  {
+    "id": "t3",
+    "name": "Kasun Jayawardhena",
+    "location": "Kurunegala",
+    "image": "",
+    "rating": 5,
+    "comment": "Organized our company's annual trip through Setharana Travels. Very good service, reasonable prices, and excellent transport facilities. The staff is very friendly."
+  },
+  {
+    "id": "t4",
+    "name": "Nilanthi Perera",
+    "location": "Kalutara",
+    "image": "",
+    "rating": 5,
+    "comment": "Prices are very reasonable. Due to luxury vehicles and experienced drivers, we got maximum safety and comfort throughout the journey. I highly recommend this company to everyone."
+  }
+]

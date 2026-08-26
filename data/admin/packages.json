@@ -1,0 +1,134 @@
+[
+  {
+    "id": "p1",
+    "title": "Atamasthana and Somawathiya Merit Tour",
+    "location": "Anuradhapura and Polonnaruwa",
+    "duration": "2 Days 1 Night",
+    "price": "Rs. 8,500",
+    "originalPrice": "Rs. 9,500",
+    "image": "https://i.ibb.co/VcdvcRnG/bde8f4d3c3f8.jpg",
+    "features": [
+      "Luxury AC bus transport",
+      "Clean hotel accommodations",
+      "Fully vegetarian delicious meals",
+      "Experienced pilgrimage guide",
+      "Special offering item set"
+    ],
+    "isPopular": true
+  },
+  {
+    "id": "p2",
+    "title": "Sri Pada Pilgrimage (Exclusive Package)",
+    "location": "Nallathanniya - Sri Pada",
+    "duration": "2 Days 1 Night",
+    "price": "Rs. 7,500",
+    "originalPrice": "Rs. 8,500",
+    "image": "https://i.ibb.co/chkwfKZw/e83592568665.jpg",
+    "features": [
+      "Direct transport from Anuradhapura",
+      "Relaxing stay near Nallathanniya",
+      "Healthy warm food and beverages",
+      "Experienced mountain guides",
+      "First aid services and security"
+    ],
+    "isPopular": true
+  },
+  {
+    "id": "p3",
+    "title": "Hill Country Wonder (Nuwara Eliya & Ella Tour)",
+    "location": "Nuwara Eliya, Bandarawela and Ella",
+    "duration": "3 Days 2 Nights",
+    "price": "Rs. 18,500",
+    "originalPrice": "Rs. 21,000",
+    "image": "https://i.ibb.co/jvCHsWqF/65beb5979ce4.jpg",
+    "features": [
+      "Star class hotel accommodations",
+      "Luxury AC vehicle transport",
+      "Delicious morning and night buffet meals",
+      "Visiting Nuwara Eliya and Ella beautiful spots",
+      "Nine Arch and Ravana Falls visit"
+    ],
+    "isPopular": false
+  },
+  {
+    "id": "p4",
+    "title": "Wondrous Sigiriya and Historical Dambulla",
+    "location": "Sigiriya and Dambulla",
+    "duration": "One Day Tour",
+    "price": "Rs. 6,000",
+    "originalPrice": "Rs. 7,000",
+    "image": "https://i.ibb.co/VWfr7VSs/74e938e5e48b.jpg",
+    "features": [
+      "Luxury tourist vehicle facilities",
+      "Delicious morning and lunch meals",
+      "Sigiriya fortress entrance tickets",
+      "Dambulla Rajamaha Viharaya worship",
+      "Experienced driver and guide"
+    ],
+    "isPopular": true
+  },
+  {
+    "id": "p5",
+    "title": "Beautiful Memories of the South Coast",
+    "location": "Galle, Mirissa and Hikkaduwa",
+    "duration": "2 Days 1 Night",
+    "price": "Rs. 14,500",
+    "originalPrice": "Rs. 16,500",
+    "image": "https://i.ibb.co/RT0FZ1YQ/07c10f43b319.jpg",
+    "features": [
+      "Beachfront hotel accommodations",
+      "Whale watching in Mirissa sea",
+      "Galle Fort and Hikkaduwa coral viewing",
+      "Luxury AC vehicle transport",
+      "All meals and beverages included"
+    ],
+    "isPopular": false
+  },
+  {
+    "id": "p6",
+    "title": "Hill Country Cultural and Pilgrimage Tour",
+    "location": "Kandy and Peradeniya",
+    "duration": "One Day Tour",
+    "price": "Rs. 5,500",
+    "originalPrice": "Rs. 6,200",
+    "image": "https://i.ibb.co/P3LVQD7/482208616b30.jpg",
+    "features": [
+      "Worshiping Sri Dalada Maligawa",
+      "Peradeniya Royal Botanical Garden",
+      "Luxury AC transport",
+      "Delicious lunch and tea",
+      "Experienced friendly staff"
+    ],
+    "isPopular": false
+  },
+  {
+    "id": "p7",
+    "title": "Dambadiva Vandanava",
+    "location": "India and Nepal",
+    "duration": "14 Days",
+    "price": "Contact for price",
+    "originalPrice": "",
+    "image": "https://i.ibb.co/whwSs2Ff/931d3c1ffbae.webp",
+    "features": [
+      "Return air tickets included",
+      "Comfortable accommodations",
+      "All daily meals and beverages",
+      "Experienced religious guide",
+      "Luxury AC transport in India"
+    ],
+    "isPopular": true
+  },
+  {
+    "id": "p1785487198787",
+    "title": "gdfgdf",
+    "location": "fgdfg",
+    "duration": "fgdfgfd",
+    "price": "gdfgdfg",
+    "originalPrice": "dfgdfgdfg",
+    "image": "dfgdfgdfg",
+    "features": [
+      "fgdfgdfg"
+    ],
+    "isPopular": true
+  }
+]
